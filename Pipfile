@@ -1,0 +1,31 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+scikit-learn = "==0.24.1"
+pandas = "==1.2.2"
+plotly = "*"
+jupyter = "*"
+tensorflow = "*"
+cached-property = "*"
+setuptools = "*"
+gast = "==0.3.3"
+matplotlib = "*"
+keras = "*"
+appnope = "*"
+cycler = "*"
+pillow = "*"
+python-dateutil = "*"
+pyyaml = "*"
+tk = "*"
+zipp = "*"
+kiwisolver = "*"
+pexpect = "*"
+jupyterlab = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
